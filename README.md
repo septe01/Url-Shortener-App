@@ -45,7 +45,7 @@ Then, install all the packages that described in `package.json` directories.
 Wait untill the application is installed into your emulator. Now, you can explore **LandTickApp** and its features. Enjoy!
 
 ### screenshots
-<img src="https://user-images.githubusercontent.com/30195561/78503993-6ca77380-7794-11ea-9b64-cf6ec878563d.png" alt="home-screen" width="260" height="440">
+<img src="https://user-images.githubusercontent.com/30195561/78504070-d58eeb80-7794-11ea-81c3-85593f4c7b8f.png" alt="home-screen" width="260" height="440">
 <!-- <img src="https://user-images.githubusercontent.com/30195561/77981953-5e40fe00-7335-11ea-9188-46f486162407.png" alt="home-screen" width="530" height="440">
 <img src="https://user-images.githubusercontent.com/30195561/77982119-bd067780-7335-11ea-80df-1408a8d3bb0b.png" alt="home-screen" width="530" height="440"> -->
 
